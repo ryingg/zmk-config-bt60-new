@@ -13,10 +13,6 @@
 	resolution = <2>;
 };
 
-&kscan0 {
-	debounce-period = <10>;
-};
-
 &mt {
 	quick_tap_ms = <200>;
 };
